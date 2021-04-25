@@ -1,23 +1,45 @@
+<div align="center">
+  <img src=".github/images/podcastr-logo.svg" alt="Podcastr logo">
+</div>
+
+## Podcastr
+
 <p align="center">
-   <img src=".github/images/Podcastr.png" width="575" style="margin-right: 10px; margin-bottom: 5rem"/>
+   <img src=".github/images/Podcastr.png" />
 </p>
 
 [![Author](https://img.shields.io/badge/author-GabrielVarela-9164fa?style=flat-square)](https://github.com/gabrielvrl)
 
 ---
 
-## :rocket: Deployed application:
-
-### https://yuca.vercel.app/
-
 ## :pushpin: Table of Contents
 
 -   [Deployed application](#rocket-deployed-application)
 -   [Design](#art-design)
+-   [Tech](#tech)
+
+## :rocket: Deployed application:
+
+### https://yuca.vercel.app/
 
 ## :art: Design
 
 -   [Design on Figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate)
+
+## Tech
+
+## Tecnologies
+
+<div align="center">
+  <br />
+  <img src=".github/tech-logos.png" alt="Technologies used">
+</div>
+
+This project was developed using cutting edge front-end technologies.
+
+-   [ReactJS](https://reactjs.org/)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Next.js](https://nextjs.org/)
 
 ## Getting Started
 
