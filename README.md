@@ -24,7 +24,7 @@
 
 ## :rocket: Deployed application:
 
-### https://yuca.vercel.app/
+### https://podcastr-two.vercel.app/
 
 ## :art: Design
 
