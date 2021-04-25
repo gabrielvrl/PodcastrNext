@@ -4,6 +4,10 @@
 
 ## Podcastr
 
+<h4 align="center">
+  Podcastr is a web application built for FalaDev Podcast broadcasting.
+</h4>
+
 <p align="center">
    <img src=".github/images/Podcastr.png" />
 </p>
