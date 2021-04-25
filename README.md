@@ -24,7 +24,7 @@
 
 ## :rocket: Deployed application:
 
-### https://podcastr-two.vercel.app/
+### link
 
 ## :art: Design
 
