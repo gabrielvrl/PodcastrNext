@@ -20,7 +20,7 @@
 
 -   [Deployed application](#rocket-deployed-application)
 -   [Design](#art-design)
--   [Tech](#tech)
+-   [Tech](#technologist-tech)
 
 ## :rocket: Deployed application:
 
@@ -30,7 +30,7 @@
 
 -   [Design on Figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate)
 
-## Tech
+## :technologist: Tech
 
 <div align="center">
   <br />
