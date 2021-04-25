@@ -24,7 +24,7 @@
 
 ## :rocket: Deployed application:
 
-### link
+### https://podcastr-next-gabrielvrl.vercel.app/
 
 ## :art: Design
 
