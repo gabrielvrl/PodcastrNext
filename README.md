@@ -32,11 +32,9 @@
 
 ## Tech
 
-## Tecnologies
-
 <div align="center">
   <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
+  <img src=".github/images/tech-logos.png" alt="Technologies used">
 </div>
 
 This project was developed using cutting edge front-end technologies.
